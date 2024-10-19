@@ -1,0 +1,15 @@
+{
+  "name": "fakemon-server",
+  "version": "1.0.0",
+  "description": "Servidor para o jogo Fakemon Ateliê",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
